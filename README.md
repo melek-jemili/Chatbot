@@ -1,0 +1,1 @@
+This repository contain source codes for developping a chatbot assitant , helping users to organize their trips, holidays , .... This chatbot proposes good plans , activities and destinations for users depending on their budgets , 
